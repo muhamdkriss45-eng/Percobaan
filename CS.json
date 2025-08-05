@@ -1,0 +1,8 @@
+{
+  "name": "TESSSSSTRUS",
+  "description": "tes repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/muhamdkriss45-eng/Percobaan/refs/heads/main/plugins.json"
+  ]
+}
